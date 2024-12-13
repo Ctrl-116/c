@@ -1,0 +1,10 @@
+# 忽略所有文件
+*
+# 不忽略.c文件
+!*.c
+# 不忽略.gitignore文件
+!.gitignore
+# 忽略所有.exe文件
+*.exe
+# 忽略VS Code配置文件夹
+.vscode/
